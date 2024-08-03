@@ -1,5 +1,6 @@
 body{
-
+    /* padding: 0%;
+    margin: 0%; */
 }
 
 header{
@@ -34,6 +35,7 @@ header nav ul li a:hover{
 }
 
 main div h1 {
+    height: 50px;
     text-align: center;
     font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
 }

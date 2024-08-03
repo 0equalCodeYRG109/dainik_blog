@@ -1,0 +1,18 @@
+.blogs{
+    margin: 50px 0px 50px 0px;
+    background-color:lightgoldenrodyellow;
+    padding: 10px;
+}
+
+.blogs ul li a {
+    color: black;
+    text-decoration: none;
+}
+
+.blogs ul li a:visited {
+    color: black;
+}
+
+.blogs ul li a:hover {
+    color: green;
+}
